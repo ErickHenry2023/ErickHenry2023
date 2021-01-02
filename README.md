@@ -22,6 +22,7 @@ Sou recém-formado (2020) em Desenvolvimento de Sistemas na Escola SENAI de Info
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickHenry2023)](https://github.com/ErickHenry2023/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickHenry2023&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ErickHenry2023&show_icons=true&theme=default)
 
 <!--
