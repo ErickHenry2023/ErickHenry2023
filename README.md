@@ -21,8 +21,8 @@ Sou recém-formado (2020) em Desenvolvimento de Sistemas na Escola SENAI de Info
  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickHenry2023)](https://github.com/ErickHenry2023/github-readme-stats) -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ErickHenry2023&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickHenry2023&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ErickHenry2023&show_icons=true&theme=default)
 
 <!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
@@ -33,25 +33,3 @@ https://youtu.be/uuFB-bkud14
 </p>
 </details>
 
-
-<p align="center">
-    <a href="/docs/readme_fr.md">Français </a>
-    ·
-    <a href="/docs/readme_cn.md">简体中文</a>
-    ·
-    <a href="/docs/readme_es.md">Español</a>
-    ·
-    <a href="/docs/readme_de.md">Deutsch</a>
-    ·
-    <a href="/docs/readme_ja.md">日本語</a>
-    ·
-    <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
-    ·
-    <a href="/docs/readme_it.md">Italiano</a>
-    ·
-    <a href="/docs/readme_kr.md">한국어</a>
-    .
-    <a href="/docs/readme_nl.md">Nederlands</a>
-    .
-    <a href="/docs/readme_tr.md">Türkçe</a>
-  </p>
