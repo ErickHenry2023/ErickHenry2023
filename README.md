@@ -1,11 +1,12 @@
-## Olá ! eu sou Erick Henry
+# Bem-vindos !
 
-Sou recém-formado (2020) em Desenvolvimento de Sistemas na Escola SENAI de Informática, e já tive oportunidade de trabalhar na área durante 1 ano e 4 meses em uma multinacional.
+## Eu sou o Erick Henry ! Deixe-me apresentar um pouco sobre mim
+Sou recém-formado em Desenvolvimento de Sistemas pela Escola SENAI de Informática, e já tive oportunidade de trabalhar na área durante 1 ano e 4 meses em uma multinacional.
 
 ### Sobre mim
 - 💻 Atualmente trabalho em projetos pessoais.
 - 👨‍💻 Estou me aperfeiçoando C#, JavaScript/ TypeScript e SQL.
-- 📚|🎬 É uma das coisas que eu mais gosto de fazer, e a ler e tambem assistir filmes/ documentarios.
+- 📚|🎬 É uma das coisas que eu mais gosto de fazer, é ler e também assistir filmes/ documentarios.
 
 ### Encontre-me:   
 
@@ -15,7 +16,7 @@ Sou recém-formado (2020) em Desenvolvimento de Sistemas na Escola SENAI de Info
 ---
 
 <details align="left">
-  <summary>Mais Informações :octocat:</summary>
+  <summary>Estatísticas :octocat:</summary>
   <br>
 <p align="center">
  
@@ -27,10 +28,7 @@ Sou recém-formado (2020) em Desenvolvimento de Sistemas na Escola SENAI de Info
 
 <!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-
-https://youtu.be/uuFB-bkud14
--->
+https://youtu.be/uuFB-bkud14 -->
  
 </p>
-</details>
-
+</details> 
