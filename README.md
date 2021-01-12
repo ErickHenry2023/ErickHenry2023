@@ -1,6 +1,6 @@
 # Bem-vindos !
 
-## Eu sou o Erick Henry ! Deixe-me apresentar um pouco sobre mim
+## Eu sou o Erick Henry !
 Sou recém-formado em Desenvolvimento de Sistemas pela Escola SENAI de Informática, e já tive oportunidade de trabalhar na área durante 1 ano e 4 meses em uma multinacional.
 
 ### Sobre mim
